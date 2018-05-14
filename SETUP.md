@@ -1,7 +1,7 @@
 Setup Procedure for HATS
 ========================
 
-(this should be some HATS-wide document)
+(this should be some HATS-wide document (?))
 
 Starting Jupyter
 ----------------
@@ -26,4 +26,5 @@ Installing Dependencies
 -----------------------
 
 This tutorial requires some additional libraries, which can be installed by
-running the [setup notebook](setup-libraries.ipynb). This only needs to beone once.
+running the [setup notebook](setup-libraries.ipynb). This only needs to be
+done once.
